@@ -15,7 +15,7 @@ You need a userscript manager first. [Violentmonkey](https://violentmonkey.githu
 
 Once that's installed:
 
-1. Click [here](https://raw.githubusercontent.com/n6ufal/youtube-delay-interceptor/main/youtube-delay-interceptor.user.js) to open the raw script
+1. Click [here](https://github.com/n6ufal/youtube-delay-interceptor/raw/refs/heads/main/youtube-delay-interceptor.user.js) to open the raw script
 2. Your userscript manager should prompt you to install it
 3. Hit install, done
 
